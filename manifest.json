@@ -1,0 +1,33 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "Prickett BLACKSOULS",
+  "description": "Theme based on Prickett from BLACKSOULS II. Original: https://www.pixiv.net/en/artworks/110411784",
+  "theme": {
+    "images": {
+      "additional_backgrounds": [
+        "images/0.png"
+      ]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": [
+        "center center"
+      ],
+      "additional_backgrounds_tiling": [
+        "repeat"
+      ]
+    },
+    "colors": {
+      "toolbar": "rgb(31, 34, 61)",
+      "toolbar_text": "rgb(255, 239, 203)",
+      "frame": "rgb(19, 20, 28)",
+      "tab_background_text": "rgb(215, 226, 239)",
+      "toolbar_field": "rgb(21, 25, 40)",
+      "toolbar_field_text": "rgb(255, 241, 206)",
+      "tab_line": "rgb(227, 94, 82)",
+      "popup": "rgb(31, 34, 61)",
+      "popup_text": "rgb(215, 226, 239)",
+      "tab_loading": "rgb(227, 94, 82)"
+    }
+  }
+}
