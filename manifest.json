@@ -3,6 +3,8 @@
   "version": "1.0",
   "name": "Prickett BLACKSOULS",
   "description": "Theme based on Prickett from BLACKSOULS II. Original: https://www.pixiv.net/en/artworks/110411784",
+  "homepage_url": "https://github.com/alcremytyl/prickett-browser-theme",
+  "update_url": "https://github.com/alcremytyl/prickett-browser-theme/releases/latest/download/theme.zip",
   "theme": {
     "images": {
       "additional_backgrounds": [
